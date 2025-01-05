@@ -16,7 +16,6 @@ Design a mechanism to retrieve **relevant clinical trials** based on query input
   - Provides explainability and visualizations for stakeholder trust.
 
 ---
-### ** Datasets ** [Raw and Processed CSV files](https://drive.google.com/drive/folders/1JqDY1EM_VgbThqMtaDUGCzkVQbvxrP2b?usp=sharing)
 
 ### **3. Key Features of the Solution**
 1. **Data Preprocessing:**
@@ -49,6 +48,7 @@ Design a mechanism to retrieve **relevant clinical trials** based on query input
 
 ### **4. Dataset**
 - **Source**: A subset of publicly available clinical trials from clinicaltrials.gov.
+- [Raw and Processed CSV files](https://drive.google.com/drive/folders/1JqDY1EM_VgbThqMtaDUGCzkVQbvxrP2b?usp=sharing)
 - **Size**: ~450,000 trials.
 - **Key Fields**:
   - `Study Title`
